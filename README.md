@@ -1,17 +1,14 @@
-TodoList API em .NET 8 com Entity Framework
-Esta È uma API simples para uma lista de tarefas (Todo List) desenvolvida em .NET 8, utilizando Entity Framework para a persistÍncia de dados. A API oferece operaÁıes CRUD (Criar, Ler, Atualizar e Deletar) para gerenciar itens de uma lista de tarefas.
+# TodoList API em .NET 8 com Entity Framework
+Esta √© uma API simples para uma lista de tarefas (Todo List) desenvolvida em .NET 8, utilizando Entity Framework para a persist√™ncia de dados. A API oferece opera√ß√µes CRUD para gerenciar itens de uma lista de tarefas.
+Tarefa feita para a disciplina de Aplica√ß√µes e Sistemas Distribu√≠dos na PUC. Projeto est√° configurado para banco InMemory.
 
-PrÈ-requisitos
-Certifique-se de ter os seguintes prÈ-requisitos instalados em sua m·quina:
+## Pr√©-requisitos
+Certifique-se de ter os seguintes pr√©-requisitos instalados em sua m√°quina:
 
-.NET 8 SDK
-Visual Studio 2022 ou Visual Studio Code (com as extensıes relevantes)
-SQL Server (ou outro banco de dados suportado pelo Entity Framework)
+- .NET 8 SDK
+- Visual Studio ou Visual Studio Code (com as extens√µes relevantes)
 
-InstalaÁ„o
-Clone este repositÛrio em sua m·quina local:
-Copy code
-git clone https://github.com/seu-usuario/todo-list-api.git
-
-Abra o projeto preferencialmente no Visual Studio e inicie a aplicaÁ„o pela solution .sln
-A API estar· acessÌvel em: https://localhost:7269
+## Instala√ß√£o e execu√ß√£o
+Clone este reposit√≥rio em sua m√°quina local.
+Abra o projeto preferencialmente no Visual Studio e inicie a aplica√ß√£o pela solution .sln
+A API estar√° acess√≠vel em: https://localhost:7269/swagger
